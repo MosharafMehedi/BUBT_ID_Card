@@ -1,0 +1,52 @@
+.M1{
+    
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding: 2px;
+}
+.M2{
+    
+
+    height: 100px;
+    width: 350px;
+    padding: 2px;
+}
+.M4{
+    transform: rotate(90deg);
+    float:left;
+    margin-left: -150px;
+    margin-top: -30px;
+   
+}
+.M3{
+       padding-left: 50px;
+       
+       height: 180px;
+       width: 180px;
+}
+.M5{
+    transform: rotate(90deg);
+    margin-left: 150px;
+    margin-top: -50px;
+}
+.Main{
+    
+    height:500px;
+    width: 350px;
+    margin-left: 200px;
+    background-color: bisque;
+}
+
+.M7{
+    background-color:rgb(17, 17, 99);
+    color: aliceblue;
+    text-align: center;
+    height: 50px;
+    font-size:2rem;
+    padding-top: 10px;
+    margin-top: 10px;
+} 
+.Main:hover{
+    background-color: rgb(119, 209, 30);
+}
